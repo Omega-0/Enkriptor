@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875583385193",
+    "project_id": "enkriptore",
+    "storage_bucket": "enkriptore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875583385193:android:06c8995c0a2a9f25bcbcf8",
+        "android_client_info": {
+          "package_name": "com.example.enkriptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875583385193-t5n81640ht2gbvqsfc8n05g66a78mam5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPMoW3uH8QcxELyIbkZLPbvCaV0G510o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875583385193-t5n81640ht2gbvqsfc8n05g66a78mam5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

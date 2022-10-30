@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.enkriptor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/enkriptor_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/enkriptor_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Enkriptor">
+        <activity android:name=".activity.MainActivity"></activity>
+        <activity android:name=".activity.Login" />
+        <activity android:name=".activity.Register" />
+        <activity android:name=".activity.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- <activity android:name=".activity.LoginActivity" /> -->
+<!--        <activity android:name=".activity.MainActivity1" />-->
+    </application>
+
+</manifest>

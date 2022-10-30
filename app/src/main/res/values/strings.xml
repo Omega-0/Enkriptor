@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Enkriptor</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enkriptor">ENKRIPTOR</string>
+</resources>
